@@ -2,7 +2,8 @@
 
 
 🌍 Sobre mim
-Sou engenheira cartógrafa formada pela Universidade do Estado do Rio de Janeiro (UERJ), com especialização em Análise Ambiental e Gestão Territorial pela Escola Nacional de Ciências Estatísticas (ENCE IBGE). Atualmente, estou cursando o mestrado em População, Território e Estatísticas Públicas na mesma instituição. Tenho uma paixão por **geoprocessamento**, **cartografia** e **análise espacial**, com foco em projetos que envolvem a gestão do território, urbanização e cartografia histórica. Atualmente, estou me aprofundando em **linguagens de programação** aplicadas à minha área de atuação, com o objetivo de automatizar processos e ampliar minhas habilidades de análise geoespacial.
+Sou engenheira cartógrafa formada pela Universidade do Estado do Rio de Janeiro (UERJ), com especialização em Análise Ambiental e Gestão Territorial pela Escola Nacional de Ciências Estatísticas (ENCE IBGE) e mestra em População, Território e Estatísticas Públicas na mesma instituição. 
+Tenho uma paixão por **geoprocessamento**, **cartografia** e **análise espacial**, com foco em projetos que envolvem a gestão do território, urbanização e cartografia histórica. Atualmente, estou me aprofundando em **linguagens de programação** aplicadas à minha área de atuação, com o objetivo de automatizar processos e ampliar minhas habilidades de análise geoespacial.
 
 
 
