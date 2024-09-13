@@ -19,7 +19,7 @@ Atualmente, estou explorando: - Produção do espaço e planejamento urbano - Ca
 
 📫 Contato
 - Email: adriene.duarte@yahoo.com.br
-- [LinkedIn](www.linkedin.com/in/adriene-duarte-49699314a)
+- [!LinkedIn](www.linkedin.com/in/adriene-duarte-49699314a)
 
 
 <!---
